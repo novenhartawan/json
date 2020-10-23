@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "SBM Office",
+        "alamat": "Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80239",
+        "lat": -8.667642, 
+        "lng": 115.246935 
+    },
+    {
+        "nama": "Warung Mudah",
+        "alamat": "Jl. Sekuta, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80228",
+        "lat": -8.689943, 
+        "lng": 115.255293
+    },
+    {
+        "nama": "Kedai Kopi Kong-Ko",
+        "alamat": "Jl. Tukad Barito, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80225",
+        "lat": -8.684279, 
+        "lng": 115.231141
+    },
+    {
+        "nama": "Royal Palace",
+        "alamat": "Jl. Diponegoro No.180, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",
+        "lat": -8.670614, 
+        "lng": 115.215180
+    }
+]
